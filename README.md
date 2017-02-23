@@ -5,7 +5,7 @@ Elixir are from each other.
 
 Test Sample benchmarking with Bmark using 'mix bmark'<br>
 Test Sample benchmarking with Benchfella using 'mix bench'<br>
-Test Sample benchmarking with Benchee using 'iex Benchmark.run'
+Test Sample benchmarking with Benchee using 'mix run -e Benchmark.run'
 
 
 <b>Don't forget</b> to run 'mix deps.get' first
